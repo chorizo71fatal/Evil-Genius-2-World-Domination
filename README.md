@@ -204,4 +204,4 @@ This repository serves as the official landing page for Evil Genius 2. The softw
 **Get the most recent version of Evil Genius 2 today!**
 
 ---
-**Last updated:** 2026-11-13 16:00:15 UTC
+**Last updated:** 2026-11-13 22:25:47 UTC
